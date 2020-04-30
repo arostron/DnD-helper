@@ -1,2 +1,0 @@
-Here are your standard DnD stats
-[15, 14, 13, 12, 9, 8]
